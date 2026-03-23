@@ -1,81 +1,80 @@
-# OctoAcme Personas
-
-This document defines typical roles and responsibilities used in OctoAcme project docs and exercises.
-
----
-
-## Developers
+## Scrum Master
 
 ### Role Summary
-Developers design, build, test, and deliver software components. They collaborate with product and project leads to implement features that meet acceptance criteria and quality standards.
+The Scrum Master supports the team in adopting and improving agile practices, facilitates ceremonies, removes impediments, and acts as a process coach. Works closely with the Project Manager.
 
 ### Responsibilities
-- Implement features and fixes to meet acceptance criteria
-- Write and maintain tests and documentation
-- Participate in design and code reviews
-- Assist in estimating and planning work
-- Help identify technical risks and propose mitigations
+- Facilitate daily standups, sprint planning, reviews, and retrospectives
+- Coach the team on agile practices and continuous improvement
+- Identify and remove team impediments
+- Collaborate and communicate closely with the Project Manager
 
 ### Goals
-- Deliver reliable, maintainable code
-- Reduce cycle time from idea to production
-- Maintain high test coverage and observability
-
-### Typical Communication
-- Daily standups and sprint planning
-- PR descriptions and code review comments
-- Technical design docs when needed
+- Boost team effectiveness and agility
+- Foster a culture of continuous learning and improvement
 
 ---
 
-## Product Managers
+## UX/UI Designer
 
 ### Role Summary
-Product Managers define what should be built to deliver customer and business value. They own the product vision, prioritize the backlog, and measure outcomes.
+UX/UI Designers transform product requirements into user-centric designs, ensure design consistency, run usability studies, and participate in feedback loops with Product Managers and Developers.
 
 ### Responsibilities
-- Define problem statements and success metrics
-- Prioritize the roadmap and backlog
-- Collaborate with stakeholders and engineering on trade-offs
-- Validate solutions through user research and metrics
+- Translate requirements into user flows and interfaces
+- Conduct and incorporate feedback from design reviews and usability tests
+- Ensure visual and interaction design consistency
 
 ### Goals
-- Maximize customer value and impact
-- Make clear, data-driven prioritization decisions
-- Ensure product-market fit and usability
-
-### Typical Communication
-- Weekly alignment with PM and engineering leads
-- Roadmap updates and stakeholder briefings
-- Acceptance criteria and feature specs
+- Deliver intuitive and accessible experiences
+- Reduce design-related defects early in the process
 
 ---
 
-## Project Managers
+## Business Analyst
 
 ### Role Summary
-Project Managers coordinate delivery activities, manage schedules, risks, and communications. They enable the team to deliver on commitments efficiently.
+Business Analysts bridge business stakeholders and the delivery team, clarify requirements, map processes, and validate alignment with business goals.
 
 ### Responsibilities
-- Create and maintain project plans and timelines
-- Manage risks, dependencies, and resource constraints
-- Facilitate meetings (kickoff, planning, retrospectives)
-- Ensure consistent project documentation and status reporting
-- Coordinate cross-team and stakeholder communication
+- Elicit, clarify, and document business requirements and user stories
+- Analyze existing processes and propose improvements
+- Facilitate conversations between business/users and delivery teams
 
 ### Goals
-- Deliver projects on time and within scope
-- Minimize unplanned work and escalations
-- Maintain transparency and alignment across stakeholders
-
-### Typical Communication
-- Weekly status updates and stakeholder reports
-- Risk registers and decision logs
-- Coordination via project boards and meeting facilitation
+- Reduce ambiguity in requirements
+- Ensure delivery matches business needs
 
 ---
 
-## How these personas are used in the exercise
-- Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
-- Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
+## DevOps Engineer
 
+### Role Summary
+DevOps Engineers maintain CI/CD infrastructure, optimize deployment pipelines, ensure environment reliability, and work with QA/Developers.
+
+### Responsibilities
+- Maintain and evolve automated testing and deployment pipelines
+- Ensure system stability, scalability, and performance
+- Support team with environment and tooling needs
+
+### Goals
+- Accelerate reliable deployments
+- Reduce operational issues
+
+---
+
+## Support Lead
+
+### Role Summary
+Support Leads triage incidents, coordinate escalations, communicate with users, and surface feedback to Product Managers and Developers.
+
+### Responsibilities
+- Oversee support requests and incident response
+- Communicate status and actions to users and teams
+- Collate user feedback for process/product improvement
+
+### Goals
+- Improve user satisfaction and issue turnaround
+- Close the loop between user support and the project team
+
+---
